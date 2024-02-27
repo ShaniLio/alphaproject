@@ -1,9 +1,7 @@
-
 working on project
 Working on Master
 Working on xyz
-=======
 This is The Project
 git change 
 working on this project
->>>>>>> master
+To Push a project
